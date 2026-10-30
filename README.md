@@ -28,3 +28,5 @@ Built with Python and Pygame.
 
 ## Security Note
 This game is designed for Local Area Networks (LAN) only. It uses the Python `pickle` module for network data transfer. Do not host the server on a public global network for security reasons.
+## Author
+Student of Inha, Ubaydullo
